@@ -1,0 +1,6 @@
+$ pip install Pillow
+$ pip install tk
+$ pip install diffusers
+$ pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118  # for GPU
+$ pip install torch torchvision torchaudio  # for CPU
+$ pip install huggingface-hub
